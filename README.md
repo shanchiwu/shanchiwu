@@ -1,5 +1,46 @@
 ## Hi there 👋
 
+# Shan-Chi Wu – Statistical Projects & Tools
+
+Welcome! This repository contains selected projects that showcase my research, computational, and educational interests in statistics, data science, and actuarial applications.
+
+## 📘 Bookdown
+
+- **[Mastering Statistics with R](https://bookdown.org/Shan_Chi_Wu/MasterStat/)** *(in progress)*  
+  An in-progress R book covering core statistical concepts and computational demonstrations using R. Topics include probability, inference, regression, and beyond.
+
+## 📦 R Packages
+
+- **[RdTranslate](https://github.com/shanchiwu/RdTranslate)**  
+  A utility package to translate R documentation files (.Rd) to multiple languages using the OpenAI API. Designed to support non-native English speakers in R development.
+
+- **`distSeqEst`** *(in progress)*  
+  Implements distributed sequential estimation procedures with a focus on reliability and parallel computation in biomedical data.
+
+## 💻 Shiny Apps / Interactive Tools
+
+- **Life Contingency Explorer** *(coming soon)*  
+  A shiny app for simulating joint-life annuity risks using copula-based models. Users can customize policyholder age, copula type, and interest rate scenarios.
+
+- **Nelson-Siegel Curve Visualizer** *(coming soon)*  
+  Interactive plotly-based tool to visualize yield curves using Nelson-Siegel model. Users can input curve parameters and view resulting term structures.
+
+- **Initial Margin Calculator** *(coming soon)*  
+  Simple interface to compute margin requirements under different financial scenarios.
+
+## 📄 Conference & Papers
+
+- 🗣️ *“A Copula-Based PIN Model”* – IMT-GT 2024  
+  [DOI: 10.1051/itmconf/20246701036](https://doi.org/10.1051/itmconf/20246701036)  
+  Developed a clustering structure to evaluate informed trading intensity using zero-inflated Poisson models.
+
+- 📑 *Second manuscript under review (2025)*  
+  Title withheld due to review policy; focuses on risk classification using large-scale longitudinal biomedical data.
+
+---
+
+> ⚙️ If you're a prospective advisor or committee member, please feel free to explore any of the above links. I'm always open to academic collaboration or discussion.
+
 <!--
 **shanchiwu/shanchiwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
