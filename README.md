@@ -30,7 +30,7 @@ Welcome! This repository contains selected projects that showcase my research, c
 
 ## 📄 Conference & Papers
 
-- 🗣️ *“A Copula-Based PIN Model”* – IMT-GT 2024  
+- 🗣️ *“Probability of Informed No-Tradings: A Copula-Based PIN Model with Zero-Inflated Poisson Distributions”* – IMT-GT 2024  
   [DOI: 10.1051/itmconf/20246701036](https://doi.org/10.1051/itmconf/20246701036)  
   Developed a clustering structure to evaluate informed trading intensity using zero-inflated Poisson models.
 
