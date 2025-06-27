@@ -14,7 +14,7 @@ Welcome! This repository contains selected projects that showcase my research, c
 - **[RdTranslate](https://github.com/shanchiwu/RdTranslate)**  
   A utility package to translate R documentation files (.Rd) to multiple languages using the OpenAI API. Designed to support non-native English speakers in R development.
 
-- **[distSeqEst](https://github.com/shanchiwu/DistrSeqEst)**  
+- **[DistSeqEst](https://github.com/shanchiwu/DistrSeqEst)**  
   Implements distributed sequential estimation procedures for large-scale Data.
 
 ## 💻 Shiny Apps / Interactive Tools
