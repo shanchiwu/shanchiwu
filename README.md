@@ -4,33 +4,27 @@
 
 Welcome! This repository contains selected projects that showcase my research, computational, and educational interests in statistics, data science, and actuarial applications.
 
+## 📦 R Packages
+
+- **[DistSeqEst](https://github.com/shanchiwu/DistrSeqEst)**  
+  Implements distributed sequential estimation procedures for large-scale Data.
+  
+- **[RdTranslate](https://github.com/shanchiwu/RdTranslate)**  
+  A utility package to translate R documentation files (.Rd) to multiple languages using the OpenAI API. Designed to support non-native English speakers in R development.
+
 ## 📘 Bookdown
 
 - **[Mastering Statistics with R](https://bookdown.org/Shan_Chi_Wu/MasterStat/)** *(in progress)*  
   An in-progress R book covering core statistical concepts and computational demonstrations using R. Topics include probability, inference, regression, and beyond.
 
-## 📦 R Packages
-
-- **[RdTranslate](https://github.com/shanchiwu/RdTranslate)**  
-  A utility package to translate R documentation files (.Rd) to multiple languages using the OpenAI API. Designed to support non-native English speakers in R development.
-
-- **[DistSeqEst](https://github.com/shanchiwu/DistrSeqEst)**  
-  Implements distributed sequential estimation procedures for large-scale Data.
-
 ## 💻 Shiny Apps / Interactive Tools
 
-- **Life Contingency Explorer** *(coming soon)*  
-  A shiny app for simulating joint-life annuity risks using copula-based models. Users can customize policyholder age, copula type, and interest rate scenarios.
-
-- **Nelson-Siegel Curve Visualizer** *(coming soon)*  
-  An interactive plotly-based tool to visualize yield curves using the Nelson-Siegel model. Users can input curve parameters and view resulting term structures.
-
-- **Initial Margin Calculator** *(coming soon)*  
-  Simple interface to compute margin requirements under different financial scenarios.
-
+- **[GPS Analyzer](https://j6g04fu3.shinyapps.io/GPS_analysis/)** 
+  A Shiny app for visualizing and analyzing GPS data with support for file uploads. It incorporates Google Maps API, interactive 3D visualizations using Plotly, and provides tools for spatial-temporal exploration of movement data.
+  
 ## 📄 Conference & Papers
 
-- 🗣️ *“Probability of Informed No-Tradings: A Copula-Based PIN Model with Zero-Inflated Poisson Distributions”* – IMT-GT 2024  
+- *“Probability of Informed No-Tradings: A Copula-Based PIN Model with Zero-Inflated Poisson Distributions”* – IMT-GT 2024  
   [DOI: 10.1051/itmconf/20246701036](https://doi.org/10.1051/itmconf/20246701036)  
   Developed a clustering structure to evaluate informed trading intensity using zero-inflated Poisson models.
 
@@ -41,6 +35,16 @@ Welcome! This repository contains selected projects that showcase my research, c
 > ⚙️ If you're a prospective advisor or committee member, please feel free to explore any of the above links. I'm always open to academic collaboration or discussion.
 
 <!--
+
+- **Life Contingency Explorer** *(coming soon)*  
+  A shiny app for simulating joint-life annuity risks using copula-based models. Users can customize policyholder age, copula type, and interest rate scenarios.
+
+- **Nelson-Siegel Curve Visualizer** *(coming soon)*  
+  An interactive plotly-based tool to visualize yield curves using the Nelson-Siegel model. Users can input curve parameters and view resulting term structures.
+
+- **Initial Margin Calculator** *(coming soon)*  
+  Simple interface to compute margin requirements under different financial scenarios.
+
 - 📑 *Second manuscript under review (2025)*  
   Title withheld due to review policy; focuses on risk classification using large-scale longitudinal biomedical data.
   
